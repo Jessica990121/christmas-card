@@ -1,2 +1,2 @@
 # christmas-card
-聖誕節卡片
+卡片
