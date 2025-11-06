@@ -1,2 +1,2 @@
-# christmas-card
+# card
 卡片
